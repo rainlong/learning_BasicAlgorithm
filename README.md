@@ -1,0 +1,2 @@
+# learning_BasicAlgorithm
+学习各种算法，并用上之前学习的设计模式设计试验，将不同算法联系起来
